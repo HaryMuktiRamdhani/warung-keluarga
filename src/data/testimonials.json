@@ -1,0 +1,30 @@
+[
+  {
+    "id": "t1",
+    "name": "Bu Siti Rahayu",
+    "role": "Warga Sekitar",
+    "message": "Warungnya lengkap dan harganya bersahabat. Kalau butuh sesuatu mendadak, tinggal jalan kaki ke sini.",
+    "rating": 5
+  },
+  {
+    "id": "t2",
+    "name": "Pak Anwar Hidayat",
+    "role": "Pelanggan Tetap 5 Tahun",
+    "message": "Sudah langganan bertahun-tahun, pelayanannya ramah dan stok BBM ecerannya selalu siap saat dibutuhkan.",
+    "rating": 5
+  },
+  {
+    "id": "t3",
+    "name": "Dewi Anggraini",
+    "role": "Ibu Rumah Tangga",
+    "message": "Belanja sembako bulanan jadi mudah, tinggal chat WhatsApp kadang bisa dititip antar juga.",
+    "rating": 4
+  },
+  {
+    "id": "t4",
+    "name": "Yusuf Maulana",
+    "role": "Mahasiswa Kos",
+    "message": "Buka sampai malam, sangat membantu untuk kebutuhan dadakan mahasiswa kos seperti saya.",
+    "rating": 5
+  }
+]

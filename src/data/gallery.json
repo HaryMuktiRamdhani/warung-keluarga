@@ -1,0 +1,11 @@
+[
+  { "id": "g1", "category": "warung", "title": "Tampak Depan Warung", "image": "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=900&q=80" },
+  { "id": "g2", "category": "produk", "title": "Rak Sembako", "image": "https://images.unsplash.com/photo-1601599963565-b7f49deb0f16?w=900&q=80" },
+  { "id": "g3", "category": "rak-barang", "title": "Rak Camilan & Minuman", "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?w=900&q=80" },
+  { "id": "g4", "category": "bbm", "title": "Area Layanan BBM Eceran", "image": "https://images.unsplash.com/photo-1545262810-77515befe149?w=900&q=80" },
+  { "id": "g5", "category": "area-depan", "title": "Teras & Area Parkir", "image": "https://images.unsplash.com/photo-1519996409144-56c88c9aa612?w=900&q=80" },
+  { "id": "g6", "category": "produk", "title": "Etalase Produk Segar", "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=900&q=80" },
+  { "id": "g7", "category": "warung", "title": "Suasana Kasir", "image": "https://images.unsplash.com/photo-1580913428023-02c429014861?w=900&q=80" },
+  { "id": "g8", "category": "rak-barang", "title": "Rak Kebutuhan Harian", "image": "https://images.unsplash.com/photo-1601000937991-b5ce67c7b909?w=900&q=80" },
+  { "id": "g9", "category": "bbm", "title": "Dispenser Pertalite Eceran", "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=900&q=80" }
+]

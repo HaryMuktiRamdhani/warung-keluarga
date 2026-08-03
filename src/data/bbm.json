@@ -1,0 +1,50 @@
+{
+  "jenis": [
+    {
+      "id": "pertalite",
+      "nama": "Pertalite",
+      "harga": 12500,
+      "satuan": "liter",
+      "stok": "tersedia",
+      "warna": "#2E7D52"
+    },
+    {
+      "id": "pertamax",
+      "nama": "Pertamax",
+      "harga": 14500,
+      "satuan": "liter",
+      "stok": "tersedia",
+      "warna": "#1F5C3F"
+    },
+    {
+      "id": "solar",
+      "nama": "Solar / Bio Solar",
+      "harga": 11800,
+      "satuan": "liter",
+      "stok": "hampir-habis",
+      "warna": "#6B7268"
+    }
+  ],
+  "jamPelayanan": [
+    { "hari": "Senin - Sabtu", "jam": "06.00 - 21.00" },
+    { "hari": "Minggu", "jam": "07.00 - 20.00" }
+  ],
+  "faq": [
+    {
+      "q": "Apakah takaran BBM eceran sudah sesuai standar?",
+      "a": "Setiap penjualan menggunakan takaran literan yang sudah dikalibrasi secara berkala untuk menjaga keakuratan."
+    },
+    {
+      "q": "Apakah bisa membeli BBM dalam jumlah besar (jerigen)?",
+      "a": "Bisa, silakan konfirmasi dahulu ke nomor WhatsApp warung agar stok dapat disiapkan."
+    },
+    {
+      "q": "Apakah ada minimum pembelian?",
+      "a": "Tidak ada minimum pembelian, pelanggan bisa membeli mulai dari 1 liter."
+    },
+    {
+      "q": "Bagaimana jika stok BBM sedang habis?",
+      "a": "Status stok pada halaman ini diperbarui secara berkala, silakan cek kembali atau hubungi warung langsung."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "namaWarung": "Warung Mamah Zihan",
+  "slogan": "Lengkap, Dekat, dan Selalu Ramah untuk Warga Sekitar",
+  "deskripsiSingkat": "Warung kelontong keluarga yang melayani kebutuhan sembako, makanan, minuman, dan BBM eceran untuk warga sekitar sejak 2019.",
+  "alamat": "Jl. Tugu 06 Kp.Pasirhalang, Rt 02 / Rw 02, No Rumah 29, Kecamatan Cisarua, Kab. Bandung Barat, Kota Bandung, Jawa Barat 40551",
+  "patokan": "Depan Pabrik Kayu Abah Amay",
+  "whatsapp": "6289656259178",
+  "telepon": "089656259178",
+  "email": "harymukti757@gmail.com",
+  "jamOperasional": [
+    { "hari": "Senin - Sabtu", "jam": "06.00 - 20.00" },
+    { "hari": "Minggu", "jam": "06.00 - 20.00" }
+  ],
+  "sosial": {
+    "instagram": "https://instagram.com/warungkeluargabarokah",
+    "facebook": "https://facebook.com/warungkeluargabarokah",
+    "tiktok": "https://tiktok.com/@warungkeluargabarokah"
+  },
+  "mapsEmbedUrl": "https://www.google.com/maps?q=-6.818316,107.532734&hl=id&z=16&output=embed",
+  "mapsLink": "https://maps.google.com/?q=-6.914744,107.609810",
+  "statistik": [
+    { "label": "Tahun Melayani", "value": 7, "suffix": "+" },
+    { "label": "Produk Tersedia", "value": 150, "suffix": "+" },
+    { "label": "Pelanggan Setia", "value": 2400, "suffix": "+" },
+    { "label": "Ulasan Positif", "value": 98, "suffix": "%" }
+  ],
+  "keunggulan": [
+    { "icon": "FaMapMarkerAlt", "title": "Lokasi Strategis", "desc": "Berada di tengah lingkungan warga, mudah dijangkau jalan kaki maupun kendaraan." },
+    { "icon": "FaTags", "title": "Harga Bersahabat", "desc": "Harga jujur dan kompetitif, sesuai kantong keluarga sehari-hari." },
+    { "icon": "FaClock", "title": "Buka Setiap Hari", "desc": "Melayani warga dari pagi hingga malam tanpa hari libur." },
+    { "icon": "FaGasPump", "title": "BBM Eceran Tersedia", "desc": "Melayani kebutuhan BBM eceran untuk kendaraan roda dua dan tiga." },
+    { "icon": "FaHeart", "title": "Pelayanan Ramah", "desc": "Dikelola langsung oleh keluarga dengan sapaan hangat setiap pelanggan." },
+    { "icon": "FaBoxOpen", "title": "Stok Selalu Lengkap", "desc": "Persediaan sembako dan kebutuhan harian rutin diperbarui setiap minggu." }
+  ],
+  "visi": "Menjadi warung keluarga pilihan utama warga sekitar yang terpercaya, lengkap, dan ramah bagi semua kalangan.",
+  "misi": [
+    "Menyediakan kebutuhan sehari-hari dengan harga yang wajar dan transparan.",
+    "Memberikan pelayanan yang ramah dan cepat kepada setiap pelanggan.",
+    "Menjaga kualitas dan kesegaran produk yang dijual.",
+    "Mendukung perekonomian warga sekitar melalui kemitraan lokal."
+  ],
+  "nilaiPelayanan": [
+    "Jujur dalam takaran dan harga",
+    "Ramah kepada semua pelanggan",
+    "Cepat dan tanggap melayani kebutuhan mendadak",
+    "Bersih dan tertata rapi"
+  ]
+}
