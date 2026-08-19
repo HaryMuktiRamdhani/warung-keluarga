@@ -11,7 +11,7 @@ export default function BbmEceran() {
     <>
       <Seo
         title="BBM Eceran"
-        description="Informasi harga, stok, dan jam pelayanan BBM eceran (Pertalite, Pertamax, Solar) di warung kami."
+        description="Informasi harga, stok, dan jam pelayanan BBM eceran (Pertalite, Pertamax) di warung kami."
         path="/bbm-eceran"
       />
 
@@ -31,12 +31,12 @@ export default function BbmEceran() {
 
       <section className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8">
         <SectionHeading eyebrow="Daftar Harga" title="Jenis & Harga BBM" />
-        <div className="mt-10 grid gap-6 sm:grid-cols-3">
+        <div className="mt-10 grid gap-6 sm:grid-cols-2">
           {bbm.jenis.map((item, i) => {
             const stock = stockLabels[item.stok]
             return (
               <Reveal key={item.id} delay={i * 0.08}>
-                <div className="flex flex-col gap-4 rounded-2xl bg-white p-6 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/[0.04] dark:ring-white/10">
+                <div className="flex flex-col gap-4 rounded-2xl bg-white p-6 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/4 dark:ring-white/10">
                   <div className="flex items-center justify-between">
                     <span
                       className="flex h-11 w-11 items-center justify-center rounded-xl text-lg text-white"
@@ -60,7 +60,7 @@ export default function BbmEceran() {
 
       <section className="bg-warung-paper-dim py-16">
         <div className="mx-auto grid max-w-7xl gap-8 px-4 sm:px-6 lg:grid-cols-2 lg:px-8">
-          <Reveal type="left" className="flex flex-col gap-4 rounded-2xl bg-white p-8 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/[0.04] dark:ring-white/10">
+          <Reveal type="left" className="flex flex-col gap-4 rounded-2xl bg-white p-8 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/4 dark:ring-white/10">
             <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-warung-green/10 text-lg text-warung-green dark:bg-warung-green-light/15 dark:text-warung-green-light">
               <FaClock />
             </span>
@@ -75,7 +75,7 @@ export default function BbmEceran() {
             </ul>
           </Reveal>
 
-          <Reveal type="right" className="flex flex-col gap-4 rounded-2xl bg-white p-8 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/[0.04] dark:ring-white/10">
+          <Reveal type="right" className="flex flex-col gap-4 rounded-2xl bg-white p-8 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/4 dark:ring-white/10">
             <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-warung-green/10 text-lg text-warung-green dark:bg-warung-green-light/15 dark:text-warung-green-light">
               <FaShieldAlt />
             </span>

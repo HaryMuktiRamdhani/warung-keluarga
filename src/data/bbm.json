@@ -15,14 +15,6 @@
       "satuan": "liter",
       "stok": "tersedia",
       "warna": "#1F5C3F"
-    },
-    {
-      "id": "solar",
-      "nama": "Solar / Bio Solar",
-      "harga": 11800,
-      "satuan": "liter",
-      "stok": "hampir-habis",
-      "warna": "#6B7268"
     }
   ],
   "jamPelayanan": [
