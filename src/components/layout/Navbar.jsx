@@ -6,6 +6,7 @@ import { FaWhatsapp } from 'react-icons/fa'
 import ThemeToggle from '../ui/ThemeToggle'
 import { useScrollPosition } from '../../hooks/useScrollPosition'
 import site from '../../data/site.json'
+import logoWarung from '../../assets/logo_warung.svg'
 
 const NAV_LINKS = [
   { to: '/', label: 'Home' },
@@ -32,7 +33,11 @@ export default function Navbar() {
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8" aria-label="Navigasi utama">
         <NavLink to="/" className="flex items-center gap-2 font-display text-lg font-semibold text-warung-green dark:text-warung-green-light">
-          <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-warung-green text-sm font-bold text-warung-paper">WZ</span>
+          <img
+            src={logoWarung}
+            alt="Logo Warung Mamah Zihan"
+            className="h-9 w-9 rounded-xl object-cover"
+          />
           <span className="hidden sm:inline">{site.namaWarung}</span>
         </NavLink>
 
