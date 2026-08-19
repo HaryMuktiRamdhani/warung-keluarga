@@ -9,6 +9,7 @@ export function formatRupiah(value) {
 
 export const stockLabels = {
   tersedia: { label: 'Tersedia', className: 'bg-warung-green/10 text-warung-green dark:bg-warung-green-light/20 dark:text-warung-green-light' },
+  'belum tersedia': { label: 'Belum Tersedia', className: 'bg-slate-200 text-slate-700 dark:bg-white/10 dark:text-slate-300' },
   'hampir-habis': { label: 'Hampir Habis', className: 'bg-warung-yellow/20 text-amber-700 dark:text-amber-300' },
   habis: { label: 'Habis', className: 'bg-gray-200 text-gray-500 dark:bg-white/10 dark:text-gray-400' },
 }

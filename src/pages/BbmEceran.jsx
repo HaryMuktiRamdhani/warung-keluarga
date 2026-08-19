@@ -33,7 +33,10 @@ export default function BbmEceran() {
         <SectionHeading eyebrow="Daftar Harga" title="Jenis & Harga BBM" />
         <div className="mt-10 grid gap-6 sm:grid-cols-2">
           {bbm.jenis.map((item, i) => {
-            const stock = stockLabels[item.stok]
+            const stock = stockLabels[item.stok] ?? {
+              label: 'Status Belum Diatur',
+              className: 'bg-slate-200 text-slate-700 dark:bg-white/10 dark:text-slate-300',
+            }
             return (
               <Reveal key={item.id} delay={i * 0.08}>
                 <div className="flex flex-col gap-4 rounded-2xl bg-white p-6 shadow-soft ring-1 ring-warung-green/5 dark:bg-white/4 dark:ring-white/10">
