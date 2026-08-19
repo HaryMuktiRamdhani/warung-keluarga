@@ -5,6 +5,7 @@ import CategoryFilter from '../components/ui/CategoryFilter'
 import GalleryCard from '../components/ui/GalleryCard'
 import ImageLightbox from '../components/ui/ImageLightbox'
 import galleryData from '../data/gallery.json'
+import warungImage from '../assets/warung.jpg'
 
 const CATEGORIES = [
   { value: 'semua', label: 'Semua' },
@@ -19,9 +20,23 @@ export default function Galeri() {
   const [category, setCategory] = useState('semua')
   const [activeIndex, setActiveIndex] = useState(null)
 
+  const localImageMap = {
+    'warung.jpg': warungImage,
+  }
+
+  const resolvedGalleryData = useMemo(
+    () =>
+      galleryData.map((item) => {
+        const filename = item.image.split('/').pop()
+        const resolvedImage = localImageMap[filename] ?? item.image
+        return { ...item, image: resolvedImage }
+      }),
+    []
+  )
+
   const filtered = useMemo(
-    () => (category === 'semua' ? galleryData : galleryData.filter((g) => g.category === category)),
-    [category]
+    () => (category === 'semua' ? resolvedGalleryData : resolvedGalleryData.filter((g) => g.category === category)),
+    [category, resolvedGalleryData]
   )
 
   const activeItem = activeIndex !== null ? filtered[activeIndex] : null
