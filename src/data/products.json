@@ -78,7 +78,7 @@
     "price": 4500,
     "unit": "batang",
     "description": "Sabun mandi dengan wangi tahan lama untuk kebersihan sehari-hari.",
-    "image": "https://images.unsplash.com/photo-1600857062241-98e5dba7f214?w=600&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFEhtHCUclQ9JQ_1i-YPmXkdSZWuTuPcqkSaetzz9FZsWYbejsFuF4LI&s=10",
     "badge": "",
     "stock": "tersedia",
     "isNew": false
@@ -102,7 +102,7 @@
     "price": 15000,
     "unit": "bungkus",
     "description": "Roti tawar gandum lembut, cocok untuk sarapan praktis keluarga.",
-    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?w=600&q=80",
+    "image": "https://img.lazcdn.com/g/p/95df931b60fad6b4cb4ab04dc465b3be.jpg_720x720q80.jpg",
     "badge": "baru",
     "stock": "tersedia",
     "isNew": true
@@ -114,19 +114,19 @@
     "price": 20000,
     "unit": "galon",
     "description": "Air minum dalam kemasan galon, jernih dan higienis, siap antar.",
-    "image": "https://images.unsplash.com/photo-1560023907-5f339617ea30?w=600&q=80",
+    "image": "https://bosara.sultraprov.go.id/asset/foto_produk/product-135-swalayan-20240830030833652.jpg",
     "badge": "",
     "stock": "habis",
     "isNew": false
   },
   {
     "id": "p011",
-    "name": "Deterjen Bubuk 800g",
+    "name": "Deterjen",
     "category": "kebutuhan-harian",
     "price": 17500,
     "unit": "bungkus",
     "description": "Deterjen bubuk dengan daya bersih maksimal untuk cucian keluarga.",
-    "image": "https://images.unsplash.com/photo-1585421514738-01798e348b17?w=600&q=80",
+    "image": "https://img.lazcdn.com/g/ff/kf/S86d689866d8945b6a8e485ba98cbcbbfL.jpg_720x720q80.jpg",
     "badge": "promo",
     "stock": "tersedia",
     "isNew": false
@@ -138,7 +138,7 @@
     "price": 16000,
     "unit": "kg",
     "description": "Gula pasir putih bersih, hasil produksi petani lokal binaan.",
-    "image": "https://images.unsplash.com/photo-1581441363689-1f3c3c414635?w=600&q=80",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO07VV_gF3Sbvc3BaTf1nbveveuXV42TP9fea2LCCuy6TA4mfTBUq8PzDN&s=10",
     "badge": "",
     "stock": "tersedia",
     "isNew": false
