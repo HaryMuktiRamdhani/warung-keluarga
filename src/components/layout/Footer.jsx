@@ -15,13 +15,13 @@ export default function Footer() {
           </div>
           <p className="mt-3 text-sm leading-relaxed text-warung-paper/70">{site.deskripsiSingkat}</p>
           <div className="mt-4 flex gap-3">
-            <a href={site.sosial.instagram} target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 hover:bg-warung-yellow hover:text-warung-green-dark">
+            <a href="https://www.instagram.com/harymktrmdnn/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 hover:bg-warung-yellow hover:text-warung-green-dark">
               <FaInstagram />
             </a>
-            <a href={site.sosial.facebook} target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 hover:bg-warung-yellow hover:text-warung-green-dark">
+            <a href="https://www.facebook.com/profile.php?id=61573522133173" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 hover:bg-warung-yellow hover:text-warung-green-dark">
               <FaFacebook />
             </a>
-            <a href={site.sosial.tiktok} target="_blank" rel="noopener noreferrer" aria-label="TikTok" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 hover:bg-warung-yellow hover:text-warung-green-dark">
+            <a href="https://www.tiktok.com/@yayayayayayayaya6767" target="_blank" rel="noopener noreferrer" aria-label="TikTok" className="flex h-9 w-9 items-center justify-center rounded-full bg-white/10 hover:bg-warung-yellow hover:text-warung-green-dark">
               <FaTiktok />
             </a>
           </div>
