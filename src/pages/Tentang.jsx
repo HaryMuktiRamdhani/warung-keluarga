@@ -3,6 +3,7 @@ import Seo from '../components/ui/Seo'
 import Reveal from '../components/ui/Reveal'
 import SectionHeading from '../components/ui/SectionHeading'
 import site from '../data/site.json'
+import warungImage from '../assets/warung.jpg'
 
 export default function Tentang() {
   return (
@@ -17,7 +18,7 @@ export default function Tentang() {
         <div className="grid items-center gap-10 lg:grid-cols-2">
           <Reveal type="left">
             <img
-              src="../assets/warung.jpg"
+              src={warungImage}
               alt={`Foto tampak depan /${site.namaWarung}`}
               className="aspect-4/3 w-full rounded-2xl object-cover shadow-soft-lg"
             />
