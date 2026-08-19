@@ -16,8 +16,8 @@
     "facebook": "https://facebook.com/warungkeluargabarokah",
     "tiktok": "https://tiktok.com/@warungkeluargabarokah"
   },
-  "mapsEmbedUrl": "https://www.google.com/maps?q=-6.818316,107.532734&hl=id&z=16&output=embed",
-  "mapsLink": "https://maps.google.com/?q=-6.914744,107.609810",
+  "mapsEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d941.3960124302341!2d107.53185270738892!3d-6.818316250434958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e3944dab5b15%3A0x733f1e2de3ebafbf!2sWarung%20Mamah%20Zihan!5e1!3m2!1sen!2sid!4v1787143529427!5m2!1sen!2sid",
+  "mapsLink": "https://maps.app.goo.gl/zz2Seap8t1Paw3v39",
   "statistik": [
     { "label": "Tahun Melayani", "value": 7, "suffix": "+" },
     { "label": "Produk Tersedia", "value": 150, "suffix": "+" },
