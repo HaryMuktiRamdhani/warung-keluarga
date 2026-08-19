@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-/* Self-hosted fonts (no external Google Fonts requests) */
 @import "@fontsource/poppins/500.css";
 @import "@fontsource/poppins/600.css";
 @import "@fontsource/poppins/700.css";
@@ -28,7 +27,6 @@
 }
 
 :root {
-  /* ---- Warung Keluarga design tokens ---- */
   --color-warung-green: #1F5C3F;
   --color-warung-green-dark: #163F2B;
   --color-warung-green-light: #2E7D52;
@@ -81,7 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-warung-green-dark);
 }
 
-/* Receipt / nota zigzag edge — signature motif used across product & promo cards */
+
 .receipt-edge-bottom {
   position: relative;
 }
@@ -117,6 +115,19 @@ h1, h2, h3, h4, h5, h6 {
 a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible {
   outline: 2px solid var(--color-warung-yellow);
   outline-offset: 2px;
+}
+
+/* Ensure native select dropdown options keep good contrast in both themes */
+.sort-select,
+.sort-select option {
+  color: var(--color-warung-ink);
+  background-color: #FFFFFF;
+}
+
+.dark .sort-select,
+.dark .sort-select option {
+  color: var(--color-warung-ink);
+  background-color: var(--color-warung-paper-dim);
 }
 
 /* Scrollbar (light touch) */

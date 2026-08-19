@@ -86,7 +86,7 @@ export default function Produk() {
               id="sort"
               value={sort}
               onChange={(e) => setSort(e.target.value)}
-              className="rounded-xl border border-warung-green/15 bg-white px-3 py-2.5 text-sm text-warung-ink outline-none focus:border-warung-green dark:border-white/10 dark:bg-white/5 dark:text-white"
+              className="sort-select rounded-xl border border-warung-green/15 bg-white px-3 py-2.5 text-sm text-warung-ink outline-none focus:border-warung-green dark:border-white/10 dark:bg-warung-paper-dim dark:text-warung-ink"
             >
               {SORT_OPTIONS.map((opt) => (
                 <option key={opt.value} value={opt.value}>{opt.label}</option>
