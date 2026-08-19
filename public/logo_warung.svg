@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="110" fill="#16A34A"></rect>
+
+  <rect x="45" y="45" width="422" height="422" rx="90" fill="#FFFFFF"></rect>
+
+  <!-- Atap warung -->
+  <path d="M105 190L256 100L407 190" fill="none" stroke="#16A34A" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <path d="M92 195H420" stroke="#16A34A" stroke-width="20" stroke-linecap="round"></path>
+
+  <!-- WZ -->
+  <text x="256" y="325" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="145" font-weight="900" letter-spacing="-8" fill="#166534">
+    WZ
+  </text>
+
+  <!-- Mangkok -->
+  <path d="M155 355H357" stroke="#16A34A" stroke-width="14" stroke-linecap="round"></path>
+
+  <path d="M170 355C180 395 212 415 256 415C300 415 332 395 342 355" fill="none" stroke="#16A34A" stroke-width="14" stroke-linecap="round"></path>
+</svg>
