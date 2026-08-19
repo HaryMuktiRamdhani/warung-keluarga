@@ -17,8 +17,8 @@ export default function Tentang() {
         <div className="grid items-center gap-10 lg:grid-cols-2">
           <Reveal type="left">
             <img
-              src="https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=900&q=80"
-              alt={`Foto tampak depan ${site.namaWarung}`}
+              src="../assets/warung.jpg"
+              alt={`Foto tampak depan /${site.namaWarung}`}
               className="aspect-4/3 w-full rounded-2xl object-cover shadow-soft-lg"
             />
           </Reveal>
