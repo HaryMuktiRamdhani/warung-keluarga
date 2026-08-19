@@ -3,14 +3,14 @@
     {
       "id": "pertalite",
       "nama": "Pertalite",
-      "harga": 12500,
+      "harga": 13000,
       "satuan": "liter",
       "stok": "tersedia",
       "warna": "#2E7D52"
     },
     {
       "id": "pertamax",
-      "nama": "Pertamax",
+      "nama": "Pertamax (Belum tersedia)",
       "harga": 14500,
       "satuan": "liter",
       "stok": "tersedia",
