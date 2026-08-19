@@ -31,7 +31,7 @@ export default function Tentang() {
               Perjalanan {site.namaWarung}
             </h1>
             <p className="text-base leading-relaxed text-warung-gray">
-              Berdiri sejak tahun 2008, {site.namaWarung} dimulai dari sebuah etalase kecil di depan rumah
+              Berdiri sejak tahun 2019, {site.namaWarung} dimulai dari sebuah etalase kecil di depan rumah
               yang menjual kebutuhan sembako harian. Seiring waktu, warung ini berkembang menjadi tempat
               belanja andalan warga sekitar, lengkap dengan layanan BBM eceran untuk kendaraan roda dua dan
               roda tiga. Dikelola langsung oleh keluarga, warung ini tumbuh bersama kepercayaan pelanggan
