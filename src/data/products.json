@@ -61,7 +61,7 @@
   },
   {
     "id": "p006",
-    "name": "Kopi Sachet Robusta",
+    "name": "Kopi Sachet",
     "category": "minuman",
     "price": 2000,
     "unit": "sachet",
@@ -73,7 +73,7 @@
   },
   {
     "id": "p007",
-    "name": "Sabun Mandi Batang",
+    "name": "Sabun Mandi",
     "category": "kebutuhan-harian",
     "price": 4500,
     "unit": "batang",
@@ -97,7 +97,7 @@
   },
   {
     "id": "p009",
-    "name": "Roti Tawar Gandum",
+    "name": "Roti",
     "category": "makanan",
     "price": 15000,
     "unit": "bungkus",
@@ -133,7 +133,7 @@
   },
   {
     "id": "p012",
-    "name": "Gula Pasir Lokal 1kg",
+    "name": "Gula Pasir",
     "category": "sembako",
     "price": 16000,
     "unit": "kg",
