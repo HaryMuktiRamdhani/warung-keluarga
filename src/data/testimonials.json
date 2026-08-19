@@ -1,30 +1,30 @@
 [
   {
     "id": "t1",
-    "name": "Bu Siti Rahayu",
+    "name": "Ibu Kokom",
     "role": "Warga Sekitar",
-    "message": "Warungnya lengkap dan harganya bersahabat. Kalau butuh sesuatu mendadak, tinggal jalan kaki ke sini.",
+    "message": "Warungnya lengkap dan banyak menyediakan makanan dan lauk pauk.",
     "rating": 5
   },
   {
     "id": "t2",
-    "name": "Pak Anwar Hidayat",
-    "role": "Pelanggan Tetap 5 Tahun",
-    "message": "Sudah langganan bertahun-tahun, pelayanannya ramah dan stok BBM ecerannya selalu siap saat dibutuhkan.",
+    "name": "Pak Dede",
+    "role": "Warga Sekitar",
+    "message": "Mantap menyediakan BBM Eceran sehingga mempermudah mencari bahan bakar kendaraan di tempat yang dekat, dan tidak harus pergi jauh hanya sekadar untuk membli BBM, walaupun BBM nya cepat habis.",
     "rating": 5
   },
   {
     "id": "t3",
-    "name": "Dewi Anggraini",
+    "name": "Ibu Nining",
     "role": "Ibu Rumah Tangga",
-    "message": "Belanja sembako bulanan jadi mudah, tinggal chat WhatsApp kadang bisa dititip antar juga.",
+    "message": "Mempermudah kita membeli lauk pauk jadi kita ngga perlu ke pasar, cukup chat lewat WhatsApp saat ingin memesan makanan.",
     "rating": 4
   },
   {
     "id": "t4",
-    "name": "Yusuf Maulana",
-    "role": "Mahasiswa Kos",
-    "message": "Buka sampai malam, sangat membantu untuk kebutuhan dadakan mahasiswa kos seperti saya.",
+    "name": "Ibu Siti",
+    "role": "Ibu Rumah Tangga",
+    "message": "Buka sampai malam, jadi ketika saya sedang lapar bisa membeli sesuatu ke Warung Mamah Zihan ini.",
     "rating": 5
   }
 ]
